@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 import java.util.Set;
 import java.util.HashSet;
-class Solution {
+
+class UniqueString {
     public static void main(String[] args) {
       String[] unique = new String[]{"a","d","e","t","h","j"};
       Set<String> checkUnique = new HashSet<String>();
