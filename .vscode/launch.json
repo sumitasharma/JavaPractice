@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Permutation",
+            "request": "launch",
+            "mainClass": "Permutation"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
             "mainClass": "Solution"
